@@ -203,9 +203,8 @@ MIT License - See LICENSE file for details
 ## Credits
 
 - Version: v10.0
-- For: CTW
 - Support: @astute_support
-- Author: Mukhlis Akbarrudin
+- First Author: Mukhlis Akbarrudin
 
 ## Support
 
