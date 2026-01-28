@@ -1,0 +1,30 @@
+{
+  "name": "your-sender",
+  "version": "1.0.1",
+  "description": "tool for sending bulk emails with nodejs",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukhlis Akbarrudin",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "figlet": "^1.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "nodemailer": "^4.6.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhlisakbr/yoursender.git"
+  },
+  "keywords": [
+    "mailer"
+  ],
+  "bugs": {
+    "url": "https://github.com/mukhlisakbr/yoursender/issues"
+  },
+  "homepage": "https://github.com/mukhlisakbr/yoursender#readme"
+}
